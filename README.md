@@ -1,6 +1,6 @@
 # DSA-Problem-Solving-Java-
 This repository contains DSA problems I solve daily while learning data structures and algorithms using Java.
->> Pattern 1
+Pattern 1
 class Main {
     public static void main(String[] args) {
          pattern(5);   
@@ -14,7 +14,7 @@ class Main {
     }
 }
 }
->> Output
+Output
 *
 **   
 ***  
